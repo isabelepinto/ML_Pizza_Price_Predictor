@@ -2,6 +2,8 @@
 
 This project is a simple machine learning model that predicts the price of a pizza based on its diameter. It uses a CSV file containing data on pizza diameters and their corresponding prices to train a linear regression model. This is my first machine learning project.
 
+website: https://pizza-price-predictor-isabele.streamlit.app/
+
 ## Project Overview
 
 The goal of this project is to build a linear regression model that can predict the price of a pizza given its diameter. The project involves the following steps:
